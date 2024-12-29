@@ -1,0 +1,74 @@
+{
+    "1": [
+        {
+            "title": "Sapiens: A Brief History of Humankind",
+            "price": "£54.23"
+        },
+        {
+            "title": "Set Me Free",
+            "price": "£17.46"
+        },
+        {
+            "title": "Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)",
+            "price": "£52.29"
+        },
+        {
+            "title": "Rip it Up and Start Again",
+            "price": "£35.02"
+        }
+    ],
+    "2": [
+        {
+            "title": "Chase Me (Paris Nights #2)",
+            "price": "£25.27"
+        },
+        {
+            "title": "Black Dust",
+            "price": "£34.53"
+        },
+        {
+            "title": "Worlds Elsewhere: Journeys Around Shakespeareâs Globe",
+            "price": "£40.30"
+        },
+        {
+            "title": "The Four Agreements: A Practical Guide to Personal Freedom",
+            "price": "£17.66"
+        },
+        {
+            "title": "The Elephant Tree",
+            "price": "£23.82"
+        },
+        {
+            "title": "Sophie's World",
+            "price": "£15.94"
+        }
+    ],
+    "3": [
+        {
+            "title": "Private Paris (Private #10)",
+            "price": "£47.61"
+        },
+        {
+            "title": "#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.",
+            "price": "£23.11"
+        },
+        {
+            "title": "We Love You, Charlie Freeman",
+            "price": "£50.27"
+        },
+        {
+            "title": "Thirst",
+            "price": "£17.27"
+        }
+    ],
+    "4": [
+        {
+            "title": "The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer",
+            "price": "£20.59"
+        },
+        {
+            "title": "The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution",
+            "price": "£32.24"
+        }
+    ]
+}
